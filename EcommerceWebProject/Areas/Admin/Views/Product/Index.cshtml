@@ -1,0 +1,82 @@
+﻿@model List<Product>
+
+<div class="container">
+    <div class="row pt4">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Product List
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Product" asp-action="UpsertProduct" class="btn btn-info rounded-pill">
+                <i class="fa-solid fa-plus fa-beat fa-2xl" style="color: #000000;"></i> Create New Product
+            </a>
+        </div>
+      </div>
+      <br />
+    <table class="table table-bordered table-striped" style="width:100%">
+        <thread>
+            <tr>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Storage
+                </th>
+                <th>
+                    Brand
+                </th>
+                <th>
+                    Color
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Disccount Price
+                </th>
+                <th>
+                    Category
+                </th>
+                <th>
+                    Edit/Delete
+                </th>
+            </tr>
+        </thread>
+    </table>
+    <table id="tblData" class="table table-bordered table-striped" style="width:100%">
+        <thread>
+    <tr>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Storage
+            </th>
+            <th>
+                Brand
+            </th>
+            <th>
+                Color
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Disccount Price
+            </th>
+            <th>
+                Category
+            </th>
+             <th>
+                Edit/Delete
+            </th> 
+    </tr>
+        </thread>
+</table>
+</div>
+
+@section Scripts {
+    <script src="~/js/product.js"></script>
+}
+

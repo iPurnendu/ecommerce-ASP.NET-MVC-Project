@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj": {}
+  },
+  "projects": {
+    "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj",
+        "projectName": "EcommerceWebProject",
+        "projectPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj",
+        "packagesPath": "C:\\Users\\PURNENDU\\.nuget\\packages\\",
+        "outputPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PURNENDU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj": {
+                "projectPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj"
+              },
+              "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
+                "projectPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0-beta.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
+        "projectName": "Variable.DataAccess",
+        "projectPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\PURNENDU\\.nuget\\packages\\",
+        "outputPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PURNENDU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
+                "projectPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj"
+              },
+              "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj": {
+                "projectPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0-beta.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
+        "projectName": "Variable.Models",
+        "projectPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
+        "packagesPath": "C:\\Users\\PURNENDU\\.nuget\\packages\\",
+        "outputPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PURNENDU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj",
+        "projectName": "Variable.Utility",
+        "projectPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj",
+        "packagesPath": "C:\\Users\\PURNENDU\\.nuget\\packages\\",
+        "outputPath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\Variable.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PURNENDU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

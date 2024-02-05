@@ -1,0 +1,56 @@
+﻿@model List<Category>
+
+<div class="container">
+    <div class="row pt4">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Category List
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Category" asp-action="CreateCategory" class="btn btn-info rounded-pill">
+                <i class="fa-solid fa-plus fa-beat fa-2xl" style="color: #000000;"></i> Create New Category
+            </a>
+        </div>
+      </div>
+      <br />
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>
+            Category Name
+        </th>
+        <th>
+            Display Order
+        </th>
+        <th>
+            Edit/Delete
+        </th>
+    </tr>
+    <tbody>
+        @foreach(var i in Model.OrderBy(u=>u.DisplayOrder))
+        {
+            <tr>
+                <td>
+                    @i.Name
+                </td>
+                <td>
+                    @i.DisplayOrder
+                </td>
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-controller="Category" asp-action="EditCategory" asp-route-id="@i.Id" class="btn btn-info mx-3">
+                                <i class="fa-solid fa-pen-to-square fa-bounce fa-xl"></i>
+                        </a>
+                            <a asp-controller="Category" asp-action="Delete" asp-route-id="@i.Id" class="btn btn-danger mx-3">
+                                <i class="fa-solid fa-trash fa-bounce fa-xl"></i>
+                            </a>
+                    </div>
+                </td>
+            </tr>
+        }
+        
+    </tbody>
+
+</table>
+</div>
+

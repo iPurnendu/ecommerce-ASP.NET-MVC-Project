@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EcommerceWebProject",
+    "\\EcommerceWebProject\\Areas",
+    "\\EcommerceWebProject\\Areas\\Admin",
+    "\\EcommerceWebProject\\Areas\\Admin\\Controllers",
+    "\\EcommerceWebProject\\Areas\\Admin\\Views",
+    "\\EcommerceWebProject\\Areas\\Customer",
+    "\\Variable.DataAccess",
+    "\\Variable.Models",
+    "\\Variable.Utility"
+  ],
+  "PreviewInSolutionExplorer": false
+}

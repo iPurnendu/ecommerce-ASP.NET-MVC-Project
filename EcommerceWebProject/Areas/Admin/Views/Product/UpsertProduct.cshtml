@@ -1,0 +1,108 @@
+﻿@model ProductVM
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Product.Id" hidden/>
+    <input asp-for="Product.ImageURl" hidden />
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100 border-50">
+                <div class="col">
+                    <div class="card card-registration my-4">
+                        <div class="row g-0">
+                            <div class="col-xl-6 d-none d-xl-block">
+                            <img src="https://images.unsplash.com/photo-1495564103921-67412af57da3?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                                     alt="Sample photo" class="img-fluid"
+                                     style="border-top-left-radius: .25rem; border-bottom-left-radius: .25rem; height:1650px;" />
+                            </div>
+                        <div class="col-xl-6">
+                                <div class="card-body p-md-5 text-black">
+                                    <h3 class="mb-5 text-uppercase">@(Model.Product.Id!=0?"Update":"Create")Product</h3>
+                                    <div asp-validation-summary="ModelOnly"></div>
+                                <div class="form-outline mb-2">
+                                    <img src="@Model.Product.ImageURl" width="100%"/>
+
+                                </div>
+                                    <div class="form-outline mb-2">
+                                        <label asp-for="Product.ProductName" class="form-label"></label>
+                                    <input asp-for="Product.ProductName" type="text" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.ProductName" class="text-danger"></span>
+                                    </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.Storage" class="form-label"></label>
+                                    <input asp-for="Product.Storage" type="text" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.Storage" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.Brand" class="form-label"></label>
+                                    <input asp-for="Product.Brand" type="text" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.Brand" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.Color" class="form-label"></label>
+                                    <input asp-for="Product.Color" type="text" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.Color" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.Description1" class="form-label"></label>
+                                    <input asp-for="Product.Description1" type="text" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.Description1" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.Description2" class="form-label"></label>
+                                    <input asp-for="Product.Description2" type="text" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.Description2" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.Description3" class="form-label"></label>
+                                    <input asp-for="Product.Description3" type="text" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.Description3" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.Price" class="form-label"></label>
+                                    <input asp-for="Product.Price" type="number" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.Price" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.DisccountPrice" class="form-label"></label>
+                                    <input asp-for="Product.DisccountPrice" type="number" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    <span asp-validation-for="Product.DisccountPrice" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.CategoryId" class="form-label"></label>
+                                    <select asp-for="@Model.Product.CategoryId" asp-items="@Model.CategoryList" id="form3Example8" class="form-select form-select-lg rounded-pill shadow">
+                                        <option disabled selected>--Select Category--</option>
+                                    </select>
+                                    <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-4">
+                                    <label asp-for="Product.ImageURl" class="form-label"></label>
+                                    <input  type="file" name="file" id="form3Example8" class="form-control form-control-lg rounded-pill shadow" />
+                                    
+                                </div>
+                                    
+                                     <div class="d-flex justify-content-end pt-3">
+                                    
+                                    <a asp-controller="Product" asp-action="Index" class="btn btn-info btn-lg ms-2 rounded-pill"><i class="fa-solid fa-backward fa-beat fa-xl"></i>Back to List</a>
+                                    @if(Model.Product.Id != 0)
+                                    {
+                                        <button type="submit" class="btn btn-success btn-lg ms-2 rounded-pill"><i class="fa-solid fa-check fa-beat fa-xl" style="color: #ffffff;"></i>Update Product</button>
+                                    }
+                                    else
+                                    {
+                                        <button type="submit" class="btn btn-success btn-lg ms-2 rounded-pill"><i class="fa-solid fa-check fa-beat fa-xl" style="color: #ffffff;"></i>Add Product</button>
+                                    }
+                                    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</form>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

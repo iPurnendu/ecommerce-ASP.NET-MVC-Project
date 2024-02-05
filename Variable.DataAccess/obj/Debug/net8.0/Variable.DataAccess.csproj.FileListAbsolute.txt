@@ -1,0 +1,38 @@
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.csproj.AssemblyReference.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.AssemblyInfoInputs.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.AssemblyInfo.cs
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.csproj.CoreCompileInputs.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.DataAccess.deps.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.DataAccess.runtimeconfig.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.DataAccess.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.DataAccess.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.Models.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.Models.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.Utility.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.csproj.CopyComplete
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\refint\Variable.DataAccess.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.genruntimeconfig.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\ref\Variable.DataAccess.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.DataAccess.deps.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.DataAccess.runtimeconfig.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.DataAccess.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.DataAccess.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.Models.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.Models.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\bin\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.csproj.AssemblyReference.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.AssemblyInfoInputs.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.AssemblyInfo.cs
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.csproj.CoreCompileInputs.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.csproj.CopyComplete
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\refint\Variable.DataAccess.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\Variable.DataAccess.genruntimeconfig.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.DataAccess\obj\Debug\net8.0\ref\Variable.DataAccess.dll

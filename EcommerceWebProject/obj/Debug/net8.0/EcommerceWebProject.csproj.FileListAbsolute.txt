@@ -1,0 +1,556 @@
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\appsettings.Development.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\appsettings.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.staticwebassets.runtime.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.exe
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.deps.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.runtimeconfig.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.AssemblyInfoInputs.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.AssemblyInfo.cs
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.csproj.CoreCompileInputs.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.MvcApplicationPartsAssemblyInfo.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.RazorAssemblyInfo.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.RazorAssemblyInfo.cs
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets\msbuild.EcommerceWebProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets\msbuild.build.EcommerceWebProject.props
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceWebProject.props
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EcommerceWebProject.props
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\scopedcss\bundle\EcommerceWebProject.styles.css
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\scopedcss\projectbundle\EcommerceWebProject.bundle.scp.css
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\refint\EcommerceWebProject.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.genruntimeconfig.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\ref\EcommerceWebProject.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Google.Protobuf.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Humanizer.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\MySql.Data.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ZstdNet.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\MySqlConnector.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.CodeDom.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.csproj.AssemblyReference.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.csproj.CopyComplete
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Build.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Common.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.DataAccess.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.Models.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.DataAccess.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.Models.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.Utility.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.MvcApplicationPartsAssemblyInfo.cs
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Azure.Core.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Azure.Identity.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Memory.Data.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\appsettings.Development.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\appsettings.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.staticwebassets.runtime.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.exe
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.deps.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.runtimeconfig.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\EcommerceWebProject.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Azure.Core.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Azure.Identity.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Google.Protobuf.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Humanizer.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Build.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\MySql.Data.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ZstdNet.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\MySqlConnector.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Common.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.CodeDom.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.DataAccess.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.Models.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.DataAccess.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.Models.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.csproj.AssemblyReference.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.AssemblyInfoInputs.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.AssemblyInfo.cs
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.csproj.CoreCompileInputs.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.RazorAssemblyInfo.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.RazorAssemblyInfo.cs
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets\msbuild.EcommerceWebProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets\msbuild.build.EcommerceWebProject.props
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceWebProject.props
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EcommerceWebProject.props
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\scopedcss\bundle\EcommerceWebProject.styles.css
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\scopedcss\projectbundle\EcommerceWebProject.bundle.scp.css
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.csproj.CopyComplete
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\refint\EcommerceWebProject.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.genruntimeconfig.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\ref\EcommerceWebProject.dll

@@ -1,0 +1,77 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+<div>
+    <section class="vh-100" style="background-color: #eee;">
+        <div class="container h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-lg-12 col-xl-11">
+                    <div class="card text-black" style="border-radius: 25px;">
+                        <div class="card-body p-md-5">
+                            <div class="row justify-content-center">
+                                <div class="col-md-12 col-lg-8 col-xl-7 order-2 order-lg-1">
+                                    <h1 class="text-center h1 fw-bold mb-5 mx-1 mx-md-4 mt-4">@ViewData["Title"]</h1>
+
+                                    <form id="account" method="post" class="mx-1 mx-md-4">
+                                        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <i class="fa-solid fa-envelope fa-bounce fa-xl" style="color: #000000;"></i>
+                                            <div class="form-outline flex-fill mb-0">
+                                                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                                                <label asp-for="Input.Email" class="form-label">Email</label>
+                                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <i class="fa-solid fa-lock fa-bounce fa-xl" style="color: #000000;"></i>
+                                            <div class="form-outline flex-fill mb-0">
+                                                <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                                                <label asp-for="Input.Password" class="form-label">Password</label>
+                                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <label asp-for="Input.RememberMe" class="form-label">
+                                                <input class="form-check-input" asp-for="Input.RememberMe" />
+                                                @Html.DisplayNameFor(m => m.Input.RememberMe)
+                                            </label>
+                                        </div>
+                                        <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4"> 
+                                            <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary"><i class="fa-solid fa-right-to-bracket fa-bounce fa-xl" style="color: #ffffff;"></i>Log in</button>
+                                        </div>
+                                        <div>
+                                            <p>
+                                                <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
+                                            </p>
+                                            <p>
+                                                <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+                                            </p>
+                                            <p>
+                                                <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Resend email confirmation</a>
+                                            </p>
+                                        </div>
+                                    </form>
+
+                                </div>
+                                <div class="col-md-8 col-lg-4 col-xl-5 d-flex align-items-center order-1 order-lg-2">
+
+                                    <img src="https://media.licdn.com/dms/image/D4D22AQEinzDK5tn-Mg/feedshare-shrink_800/0/1703833778396?e=1707955200&v=beta&t=HWtR0MmxIrDcZHrtJgBrytQSxzMR6gYWUBmkb7exL5E"
+                                         class="img-fluid" alt="Sample image" ">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

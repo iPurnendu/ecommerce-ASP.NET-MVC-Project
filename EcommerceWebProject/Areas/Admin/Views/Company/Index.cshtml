@@ -1,0 +1,70 @@
+﻿
+
+<div class="container">
+    <div class="row pt4">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Company List
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Company" asp-action="UpsertCompany" class="btn btn-info rounded-pill">
+                <i class="fa-solid fa-plus fa-beat fa-2xl" style="color: #000000;"></i> Create New Company
+            </a>
+        </div>
+      </div>
+      <br />
+    <table class="table table-bordered table-striped" style="width:100%">
+        <thread>
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Adress
+                </th>
+                <th>
+                    City
+                </th>
+                <th>
+                    State
+                </th>
+                <th>
+                    Phone Number
+                </th>
+                <th>
+                    Edit/Delete
+                </th>
+            </tr>
+        </thread>
+    </table>
+    <table id="tblData" class="table table-bordered table-striped" style="width:100%">
+        <thread>
+    <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Adress
+                </th>
+                <th>
+                    City
+                </th>
+                <th>
+                    State
+                </th>
+                <th>
+                    Phone Number
+                </th>
+                <th>
+                    Edit/Delete
+                </th>
+    </tr>
+        </thread>
+</table>
+</div>
+
+@section Scripts {
+    <script src="~/js/company.js"></script>
+}
+

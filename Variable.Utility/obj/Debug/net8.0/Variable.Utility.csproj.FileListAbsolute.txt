@@ -1,0 +1,24 @@
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
