@@ -22,3 +22,4 @@ D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Va
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.sourcelink.json

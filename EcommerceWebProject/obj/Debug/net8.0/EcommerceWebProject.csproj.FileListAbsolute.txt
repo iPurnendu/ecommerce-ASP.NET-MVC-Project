@@ -554,3 +554,6 @@ D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.pdb
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.genruntimeconfig.cache
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\ref\EcommerceWebProject.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\obj\Debug\net8.0\EcommerceWebProject.sourcelink.json
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Stripe.net.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\EcommerceWebProject\bin\Debug\net8.0\Razorpay.dll

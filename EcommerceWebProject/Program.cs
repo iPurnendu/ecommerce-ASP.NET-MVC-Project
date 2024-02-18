@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.Build.Framework;
 using Microsoft.EntityFrameworkCore;
+using Stripe;
 using Variable.DataAccess.Data;
 using Variable.DataAccess.Repository;
 using Variable.DataAccess.Repository.IRepository;
@@ -22,6 +23,9 @@ namespace EcommerceWebProject
                 var connectionString = builder.Configuration.GetConnectionString("MySqlConn");
                 options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
             });
+
+            //injecting stripe paymennt to the container
+            builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 
             builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
             builder.Services.ConfigureApplicationCookie(options => {
@@ -45,6 +49,8 @@ namespace EcommerceWebProject
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            //it will establihed connection of stripe and the key is in string format so need to convert into String format
+            StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<String>();
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();

@@ -38,6 +38,7 @@ namespace EcommerceWebProject.Areas.Admin.Controllers
             {
                 _unitofwork.Category.Add(ct);
                 _unitofwork.save();
+                TempData["success"] = "Category created successfully";
                 return RedirectToAction("Index");
             }
             return View();
@@ -65,6 +66,8 @@ namespace EcommerceWebProject.Areas.Admin.Controllers
             {
                 _unitofwork.Category.Update(ct);
                 _unitofwork.save();
+                TempData["success"] = "Category updated successfully";
+
                 return RedirectToAction("Index");
             }
             return View();
@@ -95,6 +98,8 @@ namespace EcommerceWebProject.Areas.Admin.Controllers
             }
             _unitofwork.Category.Remove(category);
             _unitofwork.save();
+            TempData["success"] = "category Deleted Successfully";
+
             return RedirectToAction("Index");
 
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ycM/yiGmkAs1nylXlVIPffuzvm0rnCHUtkAl4IgSfanAhcEtXtyTUtELQ4Jn0W8c0BHwWuK3975aDLlce5rqyw==",
+  "dgSpecHash": "aNyt9ttA3CSMxHy5Zbh145LZOWrP8Vv5vnMSOLxC/z9L1j2+0xjBURvz+JydrZV+ilBiUfs9BqvDzjAs42Gzhw==",
   "success": true,
   "projectFilePath": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj",
   "expectedPackageFiles": [
@@ -149,6 +149,8 @@
     "C:\\Users\\PURNENDU\\.nuget\\packages\\nuget.versioning\\6.3.1\\nuget.versioning.6.3.1.nupkg.sha512",
     "C:\\Users\\PURNENDU\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.0-beta.2\\pomelo.entityframeworkcore.mysql.8.0.0-beta.2.nupkg.sha512",
     "C:\\Users\\PURNENDU\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\PURNENDU\\.nuget\\packages\\razorpay\\3.1.0\\razorpay.3.1.0.nupkg.sha512",
+    "C:\\Users\\PURNENDU\\.nuget\\packages\\stripe.net\\43.15.0\\stripe.net.43.15.0.nupkg.sha512",
     "C:\\Users\\PURNENDU\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\PURNENDU\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\PURNENDU\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
@@ -188,5 +190,16 @@
     "C:\\Users\\PURNENDU\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\PURNENDU\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Razorpay 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Razorpay",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

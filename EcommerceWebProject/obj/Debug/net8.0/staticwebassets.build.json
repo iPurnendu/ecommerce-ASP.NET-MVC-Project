@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iedDKDWvjN1n4/V2c2jO7zRpP7OAxPqmkzvGZ+nF95c=",
+  "Hash": "6aUMph/P+ACN4uYedO39XRP/Vi4pn3tMoEGIq6vOKk8=",
   "Source": "EcommerceWebProject",
   "BasePath": "_content/EcommerceWebProject",
   "Mode": "Default",
@@ -1366,6 +1366,25 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\08d6c82f-ccd6-4986-9bd9-f051d75fe6ee.jpg"
     },
     {
+      "Identity": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\0ed51644-a3e9-4429-9469-27c65a5fefbe.jpg",
+      "SourceId": "EcommerceWebProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebProject",
+      "RelativePath": "images/product/0ed51644-a3e9-4429-9469-27c65a5fefbe.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\0ed51644-a3e9-4429-9469-27c65a5fefbe.jpg"
+    },
+    {
       "Identity": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\360d6d4e-0ea6-4b29-8572-3007f33fb7f0.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
@@ -1480,6 +1499,25 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\5f07c291-aacf-4014-a7a3-00973659828b.jpg"
     },
     {
+      "Identity": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\5f537e90-734f-4e6b-8717-ccfcd8d6817a.jpg",
+      "SourceId": "EcommerceWebProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebProject",
+      "RelativePath": "images/product/5f537e90-734f-4e6b-8717-ccfcd8d6817a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\5f537e90-734f-4e6b-8717-ccfcd8d6817a.jpg"
+    },
+    {
       "Identity": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\8050368a-8e7d-434c-a6e0-71fd3aa20393.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
@@ -1554,6 +1592,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\a8f5c1e1-73dc-4877-8d0e-7f5e5ab435ba.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\c2d8167f-edac-424a-b2fa-e3ada354b59b.jpg",
+      "SourceId": "EcommerceWebProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebProject",
+      "RelativePath": "images/product/c2d8167f-edac-424a-b2fa-e3ada354b59b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\c2d8167f-edac-424a-b2fa-e3ada354b59b.jpg"
     },
     {
       "Identity": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\e9e19c0c-c8cc-4a02-b848-b8c1e91a40c2.png",

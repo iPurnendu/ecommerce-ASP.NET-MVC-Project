@@ -20,3 +20,4 @@ D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Models\obj\Debug\net8.0\Var
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Models\obj\Debug\net8.0\refint\Variable.Models.dll
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Models\obj\Debug\net8.0\Variable.Models.pdb
 D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Models\obj\Debug\net8.0\ref\Variable.Models.dll
+D:\CDAC\.Net and C#\c#_VS_Code\EcommerceWeb\Variable.Models\obj\Debug\net8.0\Variable.Models.sourcelink.json

@@ -2496,6 +2496,35 @@
           }
         }
       },
+      "Razorpay/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "lib/net45/Razorpay.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Razorpay.dll": {}
+        }
+      },
+      "Stripe.net/43.15.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Configuration.ConfigurationManager": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Buffers/4.5.1": {
         "type": "package",
         "compile": {
@@ -7454,6 +7483,44 @@
         "portable.bouncycastle.nuspec"
       ]
     },
+    "Razorpay/3.1.0": {
+      "sha512": "C+Ab8jcnuWCV42ZwRIjRqD3uDe3VGAeLGv2bjvs41l/5Jm7EOGmIkKBb3pwHdag7zzSdbmhhv2JbVYDWd/OtrQ==",
+      "type": "package",
+      "path": "razorpay/3.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Razorpay.dll",
+        "lib/net45/Razorpay.dll",
+        "lib/net47/Razorpay.dll",
+        "razorpay.3.1.0.nupkg.sha512",
+        "razorpay.nuspec"
+      ]
+    },
+    "Stripe.net/43.15.0": {
+      "sha512": "5i4uFhhHJKEK68ewVelq/QNjnJv2CCMo84zpUp9C0Qi8gvJy19Vsg+jbXGn8882M3mhcMPxDehpOkm8wmyohaw==",
+      "type": "package",
+      "path": "stripe.net/43.15.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "icon.png",
+        "lib/net461/Stripe.net.dll",
+        "lib/net461/Stripe.net.xml",
+        "lib/net5.0/Stripe.net.dll",
+        "lib/net5.0/Stripe.net.xml",
+        "lib/net6.0/Stripe.net.dll",
+        "lib/net6.0/Stripe.net.xml",
+        "lib/netcoreapp3.1/Stripe.net.dll",
+        "lib/netcoreapp3.1/Stripe.net.xml",
+        "lib/netstandard2.0/Stripe.net.dll",
+        "lib/netstandard2.0/Stripe.net.xml",
+        "stripe.net.43.15.0.nupkg.sha512",
+        "stripe.net.nuspec"
+      ]
+    },
     "System.Buffers/4.5.1": {
       "sha512": "Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
       "type": "package",
@@ -8814,6 +8881,8 @@
       "MySql.Data >= 8.0.31",
       "MySqlConnector >= 2.3.3",
       "Pomelo.EntityFrameworkCore.MySql >= 8.0.0-beta.2",
+      "Razorpay >= 3.1.0",
+      "Stripe.net >= 43.15.0",
       "Variable.DataAccess >= 1.0.0",
       "Variable.Models >= 1.0.0"
     ]
@@ -8907,6 +8976,14 @@
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
             "version": "[8.0.0-beta.2, )"
+          },
+          "Razorpay": {
+            "target": "Package",
+            "version": "[3.1.0, )"
+          },
+          "Stripe.net": {
+            "target": "Package",
+            "version": "[43.15.0, )"
           }
         },
         "imports": [
@@ -8928,8 +9005,20 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Razorpay 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Razorpay",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

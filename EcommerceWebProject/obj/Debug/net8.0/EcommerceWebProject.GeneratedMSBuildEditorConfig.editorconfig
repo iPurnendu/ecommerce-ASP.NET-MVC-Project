@@ -50,6 +50,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tcGFueVxVcHNlcnRDb21wYW55LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/CDAC/.Net and C\#/c\#_VS_Code/EcommerceWeb/EcommerceWebProject/Areas/Admin/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CDAC/.Net and C\#/c\#_VS_Code/EcommerceWeb/EcommerceWebProject/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CDAC/.Net and C\#/c\#_VS_Code/EcommerceWeb/EcommerceWebProject/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -268,6 +276,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/CDAC/.Net and C\#/c\#_VS_Code/EcommerceWeb/EcommerceWebProject/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CDAC/.Net and C\#/c\#_VS_Code/EcommerceWeb/EcommerceWebProject/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CDAC/.Net and C\#/c\#_VS_Code/EcommerceWeb/EcommerceWebProject/Views/Shared/_ValidationScriptsPartial.cshtml]

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Content Remove="wwwroot\js\company.js" />
+    <Content Remove="wwwroot\js\order.js" />
     <Content Remove="wwwroot\js\product.js" />
   </ItemGroup>
 
@@ -32,6 +33,8 @@
     <PackageReference Include="MySql.Data" Version="8.0.31" />
     <PackageReference Include="MySqlConnector" Version="2.3.3" />
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.0-beta.2" />
+    <PackageReference Include="Razorpay" Version="3.1.0" />
+    <PackageReference Include="Stripe.net" Version="43.15.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -46,6 +49,7 @@
 
   <ItemGroup>
     <None Include="wwwroot\js\company.js" />
+    <None Include="wwwroot\js\order.js" />
     <None Include="wwwroot\js\product.js" />
   </ItemGroup>
 
