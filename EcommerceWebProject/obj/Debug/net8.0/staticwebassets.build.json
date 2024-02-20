@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6aUMph/P+ACN4uYedO39XRP/Vi4pn3tMoEGIq6vOKk8=",
+  "Hash": "PcQxJuwgPlGiN0zvZOnvtIdgE1nyFrI/4vzixHTTQNY=",
   "Source": "EcommerceWebProject",
   "BasePath": "_content/EcommerceWebProject",
   "Mode": "Default",
@@ -1288,6 +1288,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\home_vid.mp4",
+      "SourceId": "EcommerceWebProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebProject",
+      "RelativePath": "images/home_vid.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\home_vid.mp4"
     },
     {
       "Identity": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\IMG-20231231-WA0007.jpg",

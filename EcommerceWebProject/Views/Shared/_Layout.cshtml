@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="~/EcommerceWebProject.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/footer.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <script src="https://kit.fontawesome.com/3c23f78e0a.js" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
@@ -29,13 +30,26 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
+                       
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Admin" asp-controller="Order" asp-action="Index">Manage Order</a>
+                            <a class="nav-link text-dark" asp-area="Admin" asp-controller="Order" asp-action="Index">Orders</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" href="#">Contact us</a>
+                            <a class="nav-link text-dark" asp-area="Customer" asp-controller="Home" asp-action="Privacy">Contact us</a>
                         </li>
-                        @if (User.IsInRole(StaticDetails.Role_Admin))
+
+                        @if (User.IsInRole(StaticDetails.Role_Company))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-dark" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Site Management</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category Details</a>
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Product Details</a>
+                                    
+                                </div>
+                            </li>
+                        }
+                        @if (User.IsInRole(StaticDetails.Role_Admin) )
                         {
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle text-dark" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Site Management</a>
@@ -52,10 +66,10 @@
                         </li>
                     </ul>
                     <partial name="_LoginPartial"/>
-                    <form class="d-flex">
+                   @*  <form class="d-flex">
                         <input class="form-control me-sm-2 rounded shadow bg-white btn-outline-dark rounded-pill" type="search" placeholder="Search">
                         <button type="submit" class="btn btn-outline-dark shadow rounded-pill">Search</button>
-                    </form>
+                    </form> *@
                 </div>
             </div>
         </nav>

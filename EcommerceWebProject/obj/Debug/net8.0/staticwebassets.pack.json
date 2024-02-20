@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\IMG-20231231-WA0007.jpg"
     },
     {
+      "Id": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\home_vid.mp4",
+      "PackagePath": "staticwebassets\\images\\home_vid.mp4"
+    },
+    {
       "Id": "D:\\CDAC\\.Net and C#\\c#_VS_Code\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\orderconfarmation.jpg",
       "PackagePath": "staticwebassets\\images\\orderconfarmation.jpg"
     },

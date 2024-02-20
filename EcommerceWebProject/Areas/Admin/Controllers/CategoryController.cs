@@ -7,7 +7,9 @@ using Variable.Utility;
 namespace EcommerceWebProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles =StaticDetails.Role_Admin)]
+    //[Authorize(Roles = StaticDetails.Role_Admin + StaticDetails.Role_Company)]
+    [Authorize(Roles = StaticDetails.Role_Admin + "," + StaticDetails.Role_Company)]
+
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitofwork; //all the implemation value in database and method to collection value all present in Db context

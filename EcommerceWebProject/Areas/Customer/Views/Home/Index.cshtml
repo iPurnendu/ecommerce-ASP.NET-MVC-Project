@@ -1,42 +1,13 @@
 ﻿ @model IEnumerable<Product>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-mdb-ride="carousel" data-mdb-carousel-init>
-    <div class="carousel-indicators">
-        <button type="button"
-                data-mdb-target="#carouselExampleIndicators"
-                data-mdb-slide-to="0"
-                class="active"
-                aria-current="true"
-                aria-label="Slide 1"></button>
-        <button type="button"
-                data-mdb-target="#carouselExampleIndicators"
-                data-mdb-slide-to="1"
-                aria-label="Slide 2"></button>
-        <button type="button"
-                data-mdb-target="#carouselExampleIndicators"
-                data-mdb-slide-to="2"
-                aria-label="Slide 3"></button>
+<div style="width: 100%; height: 500px; position: relative; overflow: hidden;">
+    <video src="~/images/home_vid.mp4" autoplay loop muted style="width: 100%; height: 100%; object-fit: cover;"></video>
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #000; text-align: center;">
+        <h1 style="color: white; text-shadow: 2px 2px 4px grey; font-size: 7.5em; font-family:'Agency FB'">Variable</h1>
+        <p style="color: white; text-shadow: 2px 2px 4px grey; font-size: 1.5em; font-style: italic;">Power up your life with the latest tech – where innovation meets your doorstep!</p>
     </div>
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img src="https://images.macrumors.com/t/_Wnl9DH-eFPxTAcJOMNoJ4boxKQ=/1600x900/smart/article-new/2022/09/iPhone-14-Pro-Rear-Camera.jpg" class="d-block w-100" alt="Wild Landscape" />
-        </div>
-        <div class="carousel-item">
-            <img src="https://i0.wp.com/www.androidsage.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra-Wallpapers.jpg" class="d-block w-100" alt="Camera" />
-        </div>
-        <div class="carousel-item">
-            <img src="https://staticg.sportskeeda.com/editor/2022/01/5f21e-16433417948778-1920.jpg" class="d-block w-100" alt="Exotic Fruits" />
-        </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleIndicators" data-mdb-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleIndicators" data-mdb-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-    </button>
 </div>
+
  <div class="row pb-3">
     @foreach(var product in Model)
     {
